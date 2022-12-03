@@ -1,0 +1,122 @@
+.bg{
+background-color: white;
+border-radius: 0px 0px 24px 24px;
+}
+.navbar-brand{
+    font-weight: 400;
+    font-size: 40px; 
+}
+.title{
+    font-family: 'Milonga', cursive;
+    font-size: 50px;
+}
+.div-cover{
+    margin-top: -24px;
+    background-color: black;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.firstLettre{
+    color: gray;
+}
+.about{
+    margin-top: 70px;
+}
+.info{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.pg{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+opacity: 48%;
+padding-left:20px ;
+padding-top:15px ;
+
+}
+.info-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.offer{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.card{
+    background-color: white;
+    border: none;
+    box-shadow: 3px 6px 7px rgb(182, 175, 175);
+    width: 80%;
+}
+.card-text{
+    font-size: 13px;
+    font-weight: 300;
+}
+.contact-form{
+    background-color:rgb(241,241,241);
+}
+.form-control{
+    border:none;
+    background-color:rgb(255,255,255,0);
+    border-bottom:2px solid black;
+    border-radius: 0px;
+    width: 90%;                        
+}
+.button{
+    margin-left: auto;
+}
+.contact-info{
+    height: 700px;
+    background-image:url("images/conta.png");
+    background-position: center;
+    background-size: cover;
+
+}
+.my-contact{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.p{
+    margin-top: 12px;
+    width: 240px;
+}
+.icons{
+    margin-top: 12px;
+    width: 240px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer{
+    background-color: black;
+}
+.links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.links>a{
+    text-decoration: none;
+    margin-top: 8px;
+}
+.fin{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.btnf{
+    display: flex;
+}
